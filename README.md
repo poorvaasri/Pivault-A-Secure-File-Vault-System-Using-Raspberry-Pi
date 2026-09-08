@@ -36,7 +36,8 @@ The primary goal of PiVault is to provide a reliable, user-friendly solution for
 ## Demonstration
 
 A detailed walkthrough and demonstration of PiVault is available here:
-**[Watch the Demo]([https://drive.google.com/file/d/1Y3E7cATlB1i7_hW90IXBnC2OHcZTBwH0/view?usp=sharing])**
+
+**[Watch the Demo](https://drive.google.com/file/d/1Y3E7cATlB1i7_hW90IXBnC2OHcZTBwH0/view?usp=sharing)**
 
 ## System Architecture
 
