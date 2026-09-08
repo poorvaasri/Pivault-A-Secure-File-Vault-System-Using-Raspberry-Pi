@@ -36,7 +36,7 @@ The primary goal of PiVault is to provide a reliable, user-friendly solution for
 ## Demonstration
 
 A detailed walkthrough and demonstration of PiVault is available here:
-**[Watch the Demo]([https://www.youtube.com/watch?v=your-video-id](https://drive.google.com/file/d/1IRdPkqiWsyBBdFHOof2TX5EKPBc-Iwvg/view?usp=sharing))**
+**[Watch the Demo]([https://drive.google.com/file/d/1Y3E7cATlB1i7_hW90IXBnC2OHcZTBwH0/view?usp=sharing])**
 
 ## System Architecture
 
@@ -108,5 +108,5 @@ This project is created for academic purposes and is open for educational and no
 
 Contributions, feedback, and suggestions are welcome. For collaboration or inquiries, please contact:
 
-**Developer**: \[POORVAA SRI B]
+**Developer**: [POORVAA SRI B]
 **GitHub**: [poorvaasri](https://github.com/poorvaasri)
