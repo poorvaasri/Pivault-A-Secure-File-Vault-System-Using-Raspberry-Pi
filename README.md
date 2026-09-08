@@ -108,5 +108,5 @@ This project is created for academic purposes and is open for educational and no
 
 Contributions, feedback, and suggestions are welcome. For collaboration or inquiries, please contact:
 
-**Developer**: [POORVAA SRI B]
+**Developer**: POORVAA SRI B
 **GitHub**: [poorvaasri](https://github.com/poorvaasri)
